@@ -1,0 +1,33 @@
+# dependencies
+node_modules
+
+# production
+
+# generated files
+.docusaurus
+.cache-loader
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+website/docs/main/Component.md
+website/translated_docs
+website/build/
+website/yarn.lock
+website/node_modules
+

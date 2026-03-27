@@ -1,0 +1,58 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docs.category.Getting Started": {
+    "message": "Getting Started",
+    "description": "The label for category Getting Started in sidebar docs"
+  },
+  "sidebar.docs.category.Customization": {
+    "message": "Customization",
+    "description": "The label for category Customization in sidebar docs"
+  },
+  "sidebar.docs.category.Components": {
+    "message": "Components",
+    "description": "The label for category Components in sidebar docs"
+  },
+  "sidebar.docs.category.Avatar": {
+    "message": "Avatar",
+    "description": "The label for category Avatar in sidebar docs"
+  },
+  "sidebar.docs.category.Card": {
+    "message": "Card",
+    "description": "The label for category Card in sidebar docs"
+  },
+  "sidebar.docs.category.Dialog": {
+    "message": "Dialog",
+    "description": "The label for category Dialog in sidebar docs"
+  },
+  "sidebar.docs.category.ListItem": {
+    "message": "ListItem",
+    "description": "The label for category ListItem in sidebar docs"
+  },
+  "sidebar.docs.category.SpeedDial": {
+    "message": "SpeedDial",
+    "description": "The label for category SpeedDial in sidebar docs"
+  },
+  "sidebar.docs.category.Tab": {
+    "message": "Tab",
+    "description": "The label for category Tab in sidebar docs"
+  },
+  "sidebar.docs.category.TabView": {
+    "message": "TabView",
+    "description": "The label for category TabView in sidebar docs"
+  },
+  "sidebar.docs.category.More Components": {
+    "message": "More Components",
+    "description": "The label for category More Components in sidebar docs"
+  },
+  "sidebar.docs.category.See also": {
+    "message": "See also",
+    "description": "The label for category See also in sidebar docs"
+  },
+  "sidebar.docs.link.Sponsors": {
+    "message": "Sponsors",
+    "description": "The label for link Sponsors in sidebar docs, linking to /sponsor"
+  }
+}

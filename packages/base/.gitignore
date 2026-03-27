@@ -1,0 +1,11 @@
+node_modules
+.DS_Store
+*.log
+site
+coverage
+jsconfig.json
+.vscode/
+.idea/
+package-lock.json
+*.orig
+.docgen/
