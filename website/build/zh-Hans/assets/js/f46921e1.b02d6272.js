@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[4780],{89357:s=>{s.exports=JSON.parse('{"name":"Open Source","permalink":"/zh-Hans/docs/tags/open-source","docs":[{"id":"version-4.0.0-rc.0/repo/contributing","title":"","description":"","permalink":"/zh-Hans/docs/contributing"}],"allTagsPath":"/zh-Hans/docs/tags"}')}}]);

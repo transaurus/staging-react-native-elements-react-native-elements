@@ -1,0 +1,50 @@
+{
+  "link.title.Docs": {
+    "message": "Docs",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.Community": {
+    "message": "Community",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.More": {
+    "message": "More",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.Getting Started": {
+    "message": "Getting Started",
+    "description": "The label of footer link with label=Getting Started linking to docs/"
+  },
+  "link.item.label.Components": {
+    "message": "Components",
+    "description": "The label of footer link with label=Components linking to docs/overview"
+  },
+  "link.item.label.Contribution Guide": {
+    "message": "Contribution Guide",
+    "description": "The label of footer link with label=Contribution Guide linking to docs/contributing"
+  },
+  "link.item.label.Chat with us on Slack": {
+    "message": "Chat with us on Slack",
+    "description": "The label of footer link with label=Chat with us on Slack linking to https://react-native-elements-slack.herokuapp.com/"
+  },
+  "link.item.label.Submit a bug or feature": {
+    "message": "Submit a bug or feature",
+    "description": "The label of footer link with label=Submit a bug or feature linking to https://github.com/react-native-elements/react-native-elements/issues/"
+  },
+  "link.item.label.Support us on Open Collective": {
+    "message": "Support us on Open Collective",
+    "description": "The label of footer link with label=Support us on Open Collective linking to https://opencollective.com/react-native-elements"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/react-native-elements/react-native-elements"
+  },
+  "link.item.label.StackOverflow": {
+    "message": "StackOverflow",
+    "description": "The label of footer link with label=StackOverflow linking to https://stackoverflow.com/questions/tagged/react-native-elements"
+  },
+  "link.item.label.VS Code Extension": {
+    "message": "VS Code Extension",
+    "description": "The label of footer link with label=VS Code Extension linking to https://marketplace.visualstudio.com/items?itemName=rne.snippets"
+  }
+}
